@@ -1,0 +1,44 @@
+ .title_chapter {
+    text-align: center;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.indent {
+    margin: 60px;
+}
+
+.s_indent {
+    margin: 40px;
+}
+
+.t_cross {
+    text-decoration: line-through;
+}
+
+.fat {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration-line: underline;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid rgb(0, 0, 0);
+ }
+
+ iframe {
+    border: none;
+ }
